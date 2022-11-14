@@ -15,4 +15,3 @@ spec:
       ref:
         branch: master
       url: https://github.com/metaage-vmware/demo-app
-    
